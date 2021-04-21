@@ -1,0 +1,14 @@
+#review-card{
+    border-radius: 10px;
+    background-color: darkseagreen;
+    box-shadow: 2px 5px 4px rgb(8, 104, 21);
+}
+#review-img{
+    width: 80%;
+    border-radius: 50px;
+    margin-right: 100px;
+}
+.reviewer{
+    margin-right: 100px;
+    margin-bottom: 10px;
+}
